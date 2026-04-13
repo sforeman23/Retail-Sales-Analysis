@@ -20,10 +20,16 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 ---
 
 ## 🔍 Key Insights
-- Identified top-performing categories driving the majority of revenue  
-- Observed monthly sales trends, including seasonal patterns  
-- Detected shipment delays impacting operational efficiency  
-- Highlighted regional differences in revenue  
+- Technology was the top-performing category, generating the highest revenue
+- Sales showed consistent growth over time with noticeable seasonal spikes
+- Certain regions underperformed, indicating potential market opportunities
+- Shipment delays occurred in .02% of orders, highlighting operational efficencies
+
+---
+## 💡 Recommendations
+
+- Focus marketing efforts on high-performing categories
+- Explore expansion strategies in underperforming regions
 
 ---
 
