@@ -23,7 +23,7 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 - Identified top-performing categories driving the majority of revenue  
 - Observed monthly sales trends, including seasonal patterns  
 - Detected shipment delays impacting operational efficiency  
-- Highlighted regional differences in profitability  
+- Highlighted regional differences in revenue  
 
 ---
 
