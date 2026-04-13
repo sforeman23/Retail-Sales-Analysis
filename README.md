@@ -20,7 +20,7 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 ---
 
 ## 🔍 Key Insights
-- Technology was the top-performing category, generating the highest revenue
+- Furniture was the top-performing category, generating the highest revenue
 - Sales showed consistent growth over time with noticeable seasonal spikes
 - Certain regions underperformed, indicating potential market opportunities
 - Shipment delays occurred in .02% of orders, highlighting operational efficencies
