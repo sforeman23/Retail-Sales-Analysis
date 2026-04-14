@@ -20,11 +20,10 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 ---
 
 ## 🔍 Key Insights
-- Furniture was the top-performing category, generating the highest revenue
+- Technology was the top-performing category, generating the highest revenue
 - Sales showed consistent growth over time with noticeable seasonal spikes
+- West was the top-performing region, generating the highest revenue
 - Certain regions underperformed, indicating potential market opportunities
-- Shipment delays occurred in .02% of orders, highlighting operational efficencies
-
 ---
 ## 💡 Recommendations
 
@@ -35,13 +34,13 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 
 ## 📂 Project Structure
 1. Dataset- Train.csv
-2. Analysis Queries- analysis.sql
+2. Analysis Queries- orderanalysis.sql
 
 ---
 
 ## ▶️ How to Run
 1. Import the dataset (`train.csv`) into MySQL WorkBench   
-2. Execute queries in `analysis.sql` to reproduce results  
+2. Execute queries in `orderanalysis.sql` to reproduce results  
 
 ---
 
