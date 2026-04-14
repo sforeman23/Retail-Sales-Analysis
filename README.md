@@ -38,7 +38,8 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 ![Monthly Sales]()
 
 ### Sales by Category
-![Category Sales]()
+![Category Sales](<img width="642" height="482" alt="image" src="https://github.com/user-attachments/assets/947ef638-5e36-4d4f-a825-fac8bbaf6730" />
+)
 
 ### Sales by Region
 ![Region Sales]()
