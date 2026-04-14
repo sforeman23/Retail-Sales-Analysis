@@ -1,7 +1,7 @@
 # 📊 Retail Sales & Operations Analysis (SQL)
 
 ## 📌 Overview
-This project analyzes retail sales and order data using SQL to identify revenue trends, operational inefficiencies, and shipment delays. The goal is to demonstrate data analysis skills and the ability to generate business insights from raw data.
+This project analyzes retail sales and order data using SQL to identify revenue trends The goal is to demonstrate data analysis skills and the ability to generate business insights from raw data.
 
 ---
 
@@ -13,17 +13,17 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 
 ## 📈 Key Business Questions
 - What are the top-performing product categories?
-- How do sales trend over time?
 - Which regions generate the most profit?
-- How frequently do shipment delays occur?
+- Which logistics mode generate the most revenue?
+  
 
 ---
 
 ## 🔍 Key Insights
 - Technology was the top-performing category, generating the highest revenue
-- Sales showed consistent growth over time with noticeable seasonal spikes
 - West was the top-performing region, generating the highest revenue
 - Certain regions underperformed, indicating potential market opportunities
+- Standard class mode generated the most revenue 
 ---
 ## 💡 Recommendations
 
@@ -45,7 +45,7 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 ---
 
 ## 💼 Business Context
-This project simulates real-world retail and logistics analysis, focusing on sales performance and operational efficiency. It reflects common business challenges such as tracking revenue trends and identifying shipment delays.
+This project simulates real-world retail, focusing on sales performance. It reflects common business challenges such as tracking revenue trends.
 
 ---
 
