@@ -1,13 +1,14 @@
 # 📊 Retail Sales & Operations Analysis (SQL)
 
 ## 📌 Overview
-This project analyzes retail sales and order data using SQL to identify revenue trends The goal is to demonstrate data analysis skills and the ability to generate business insights from raw data.
+This project analyzes retail sales and order data using SQL to identify revenue trends as well as use Python to help visualize the revenue trends. The goal is to demonstrate data analysis skills and the ability to generate business insights from raw data.
 
 ---
 
 ## 🛠 Tools Used
 - MySQL 
 - MySQL Workbench
+- Python
 
 ---
 
@@ -31,6 +32,16 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 - Explore expansion strategies in underperforming regions
 
 ---
+## 📊 Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales]()
+
+### Sales by Category
+![Category Sales]()
+
+### Sales by Region
+![Region Sales]()
 
 ## 📂 Project Structure
 1. Dataset- Train.csv
@@ -50,8 +61,7 @@ This project simulates real-world retail, focusing on sales performance. It refl
 ---
 
 ## 🚀 Future Improvements
-- Add more advanced SQL queries (window functions, CTEs)  
-- Integrate with Python for visualization  
+- Add more advanced SQL queries (window functions, CTEs)   
 - Build a dashboard for interactive reporting  
 
 ---
