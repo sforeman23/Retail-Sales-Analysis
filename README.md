@@ -42,7 +42,7 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 
 
 ### Sales by Mode of Shipment
-![Ship Mode Sales]()
+![Ship Mode Sales](https://github.com/sforeman23/Retail-Sales-Analysis/blob/python/shipmode_sales2.png)
 
 ## 📂 Project Structure
 1. Dataset- Train.csv
