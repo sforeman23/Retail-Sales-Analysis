@@ -11,6 +11,12 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 - Python
 
 ---
+## 🧠 Methodology
+- Imported raw CSV data into MySQL
+- Cleaned and transformed data
+- Performed analysis using SQL queries
+- Visualized results using Python (Pandas, Matplotlib)
+---
 
 ## 📈 Key Business Questions
 - What are the top-performing product categories?
