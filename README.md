@@ -35,7 +35,7 @@ This project analyzes retail sales and order data using SQL to identify revenue 
 ## 📊 Visualizations
 
 ### Sales by Region
-![Region Sales]()
+![Region Sales](https://github.com/sforeman23/Retail-Sales-Analysis/blob/python/region_sales2.png)
 
 ### Sales by Category
 ![Category Sales](https://github.com/sforeman23/Retail-Sales-Analysis/blob/python/category_sales2.png)
